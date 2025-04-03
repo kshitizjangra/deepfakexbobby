@@ -1,0 +1,5 @@
+[build]
+system_packages = ["ffmpeg", "libgl1-mesa-glx", "python3", "gcc"]
+
+[start]
+cmd = "python app.py"
