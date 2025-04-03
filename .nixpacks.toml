@@ -1,5 +1,0 @@
-[build]
-packages = ["python310"]
-
-[start]
-cmd = "python app.py"
